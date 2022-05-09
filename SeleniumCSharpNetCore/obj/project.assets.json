@@ -6747,19 +6747,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\karth\\.nuget\\packages\\": {}
+    "C:\\Users\\DH207751\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karth\\Documents\\GitHub\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
+      "projectUniqueName": "C:\\Projects\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
       "projectName": "SeleniumCSharpNetCore",
-      "projectPath": "C:\\Users\\karth\\Documents\\GitHub\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
-      "packagesPath": "C:\\Users\\karth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karth\\Documents\\GitHub\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\obj\\",
+      "projectPath": "C:\\Projects\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
+      "packagesPath": "C:\\Users\\DH207751\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\karth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DH207751\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6849,7 +6849,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }
